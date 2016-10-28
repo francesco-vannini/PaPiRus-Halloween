@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Demo code for PaPiRus with 2.7" display
 
 import os
 import sys
